@@ -17,7 +17,7 @@ RC-CAT-*, RC-GRANT-*, RC-REC-*, RC-REV-*, RC-RIGHTS-*, RC-LEGAL-*, RC-TEN-* (see
 
 ## Tech stack
 
-Kotlin, Spring Boot 3, PostgreSQL, Kafka
+Java, Spring Boot 4, PostgreSQL, Kafka
 
 ## Infrastructure (BOM)
 
